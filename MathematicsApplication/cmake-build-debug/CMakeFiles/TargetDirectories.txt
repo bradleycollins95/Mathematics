@@ -1,0 +1,3 @@
+C:/Users/brad_/CLionProjects/MathematicsApplication/cmake-build-debug/CMakeFiles/2Dgame.dir
+C:/Users/brad_/CLionProjects/MathematicsApplication/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/brad_/CLionProjects/MathematicsApplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
